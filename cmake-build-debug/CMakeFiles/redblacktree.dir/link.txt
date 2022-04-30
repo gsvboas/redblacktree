@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/redblacktree.dir/src/rbtree.c.o -o redblacktree 

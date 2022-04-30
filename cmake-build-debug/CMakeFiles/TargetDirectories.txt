@@ -1,0 +1,3 @@
+/home/gsvboas/dev/github/redblacktree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gsvboas/dev/github/redblacktree/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gsvboas/dev/github/redblacktree/cmake-build-debug/CMakeFiles/redblacktree.dir
